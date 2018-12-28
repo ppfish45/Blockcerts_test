@@ -7,6 +7,10 @@
       {
         "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
         "revocationReason": "Issued in error."
+      },  
+      {
+        "id": "urn:uuid:92260118-7360-4bb3-af88-e119aee03072",
+        "revocationReason": "Test revocation."
       }
     ]
   }
