@@ -14,6 +14,7 @@
       "created": "2018-12-27T18:14:52.692688+00:00"
     }
   ],
+  "introductionURL": "http://162.219.121.91:8888",
   "revocationList": "https://raw.githubusercontent.com/ppfish45/Blockcerts_test/master/revocation_list.json",
   "type": "Profile"
 }
