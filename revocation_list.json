@@ -7,10 +7,6 @@
       {
         "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
         "revocationReason": "Issued in error."
-      },
-      {
-        "id": "urn:uuid:73613948-ae48-48df-ab24-c2f755e8206a",
-        "revocationReason": "Issued in error."
-      } 
+      }
      ]
   }
